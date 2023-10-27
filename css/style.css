@@ -31,8 +31,8 @@ ul{
 }
 
 .right__img img{
-    width: 800px;
-    height: 500px;
+    width: 60vw;
+    height: 450px;
     display: block;
     margin-left: auto;
     margin-top: 50px;
@@ -41,15 +41,15 @@ ul{
 }
 
 .title{
-    font-size: 70px;
+    font-size: 50px;
     font-weight: lighter;
     position: absolute;
     margin-top: 330px;
 }
 
 .left__img{
-    width: 1000px;
-    height: 200px;
+    width: 60vw;
+    height: 20vh;
     background-color: rgb(26, 30, 134);
     z-index: 0;
     position: absolute;
